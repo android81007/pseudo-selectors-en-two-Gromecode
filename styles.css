@@ -10,7 +10,7 @@ h2 {
     color: orange;
 }
 
-ul>li {
+li {
     color: blue;
 }
 
@@ -23,7 +23,7 @@ input {
 }
 
 .hello {
-    background-color: #fff;
+    background-color: white;
 }
 
 #special {
